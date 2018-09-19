@@ -62,7 +62,7 @@
 **英语水平：**
  -  **```CET-6```**&nbsp;&nbsp; 492；
  -  **```雅思```**&nbsp;&nbsp; &nbsp;听力 5.5| &nbsp;&nbsp; 阅读 6.5| &nbsp;&nbsp; 写作 5.5| &nbsp;&nbsp; 口语 5| &nbsp;&nbsp; 总成绩 5.5；
-
+ - ![|right|200x200](https://raw.githubusercontent.com/dcpnonstop/dcp-resume/master/score.jpg)
 ---
 
 ## 个人评价

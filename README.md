@@ -1,9 +1,3 @@
----
-title: Personal resume
-date: 2018-09-19 12:44:19
-tags: 技术积累
----
-
 # Chaoping Ding
 -----
 -  **概况**：`2019应届毕业生` |&nbsp; &nbsp; 男 | &nbsp; &nbsp;26岁  | &nbsp; &nbsp;未婚 | 178cm |&nbsp; &nbsp; 党员

@@ -1,5 +1,5 @@
 <h1>Chaoping Ding</h1>
-<div style="float:right;border-style: outset;">
+<div style="float:left;border-style: outset;">
     <img src="https://raw.githubusercontent.com/dcpnonstop/dcp-resume/master/ps.jpg" width="200">
 </div>
 

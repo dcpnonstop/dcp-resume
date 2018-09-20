@@ -1,3 +1,6 @@
+<div style="float:right">
+    <img src="your image link" width="200">
+</div>
 # Chaoping Ding
 ![|right|200x200](https://raw.githubusercontent.com/dcpnonstop/dcp-resume/master/ps.jpg)
 

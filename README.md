@@ -1,4 +1,6 @@
 # Chaoping Ding
+![|right|200x200](https://raw.githubusercontent.com/dcpnonstop/dcp-resume/master/ps.jpg)
+
 -----
 -  **概况**：`2019应届毕业生` |&nbsp; &nbsp; 男 | &nbsp; &nbsp;26岁  | &nbsp; &nbsp;未婚 | 178cm |&nbsp; &nbsp; 党员
 -  **电话**：`15858XXX809`  &nbsp; &nbsp;**E-mail**： `chaopding@163.com` &nbsp; &nbsp;**地址**：杭州

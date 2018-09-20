@@ -1,13 +1,15 @@
-<div style="float:right">
+<h1>Chaoping Ding</h1>
+<div style="float:right;border-style: outset;">
     <img src="https://raw.githubusercontent.com/dcpnonstop/dcp-resume/master/ps.jpg" width="200">
 </div>
-# Chaoping Ding
 
 
------
+
+---
 -  **概况**：`2019应届毕业生` |&nbsp; &nbsp; 男 | &nbsp; &nbsp;26岁  | &nbsp; &nbsp;未婚 | 178cm |&nbsp; &nbsp; 党员
--  **电话**：`15858XXX809`  &nbsp; &nbsp;**E-mail**： `chaopding@163.com` &nbsp; &nbsp;**地址**：杭州
--   **微博**：[@叮當了個和諧](https://weibo.com/3267874892/) 
+-  **电话**：`15858XXX809`  &nbsp; &nbsp;**E-mail**： `chaopding@163.com` &nbsp; &nbsp;
+-  **地址**：杭州
+-  **微博**：[@叮當了個和諧](https://weibo.com/3267874892/) 
 - **技术博客**：https://dcpnonstop.github.io/ 
 - **Github**：https://github.com/dcpnonstop
 ---
